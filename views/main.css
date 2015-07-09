@@ -8,4 +8,10 @@
 
 .main-page{
     max-width: 80%;
+    margin: 0 auto;
+}
+
+textarea{
+    resize: none;
+    width: 100%;
 }
